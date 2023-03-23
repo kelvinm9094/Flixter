@@ -2,7 +2,7 @@
 
 Submitted by: **Kelvin Marroquin**
 
-**Flixter part 2** is a movie browsing app that allows users to browse ... [TODO] 
+**Flixter part 2** is a movie browsing app that allows users to browse movies and their trailers using youtube API
 
 Time spent: **10** hours spent in total
 
