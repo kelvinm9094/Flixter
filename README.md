@@ -2,7 +2,7 @@
 
 Submitted by: **Kelvin Marroquin**
 
-**Name of your app** is a movie browsing app that allows users to browse ... [TODO] 
+**Flixter part 2** is a movie browsing app that allows users to browse ... [TODO] 
 
 Time spent: **10** hours spent in total
 
