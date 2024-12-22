@@ -26,12 +26,16 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+![demo5](https://github.com/user-attachments/assets/84e76137-8b53-428b-964e-5f0e1e25dcf8)
 
 Here's a walkthrough of implemented user stories:
 
 < ![flixterpt2backup](https://user-images.githubusercontent.com/85253550/227068819-d0e10500-c640-4d26-be81-f9f6003288d6.gif)/>
 
-<!-- Replace this with whatever GIF tool you used! -->
+< ![flixterpt2backup](https://user-images.githubusercontent.com/85253550/227068819-d0e10500-c640-4d26-be81-f9f6003288d6.gif)/>
+
+<!-- Replace this with whatever GIF tool you ![demo5](https://github.com/user-attachments/assets/ce1d74c4-b4d1-4871-9f9b-64316bf82c70)
+used! -->
 GIF created with ...  Licecap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
