@@ -4,6 +4,8 @@ Submitted by: **Kelvin Marroquin**
 
 **Flixter part 2** is a movie browsing app that allows users to browse movies and their trailers using youtube API
 
+![demo2](https://github.com/user-attachments/assets/55ac7709-092d-4af2-8a04-ab6a33349202)
+![demo1](https://github.com/user-attachments/assets/0b504953-4299-420d-ab3e-13a97ab3a862)
 
 ## Required Features
 
